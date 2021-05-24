@@ -1,4 +1,4 @@
-# steps
+# steps to test
 
 1. To run Tests
 go test 
